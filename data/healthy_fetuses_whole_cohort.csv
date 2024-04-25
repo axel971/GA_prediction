@@ -1,0 +1,452 @@
+,study,fetus_ID,scan,scan_info,GA
+1,r01,2004,1,alllabelsconfirm,31 2/7
+2,r01,2004,2,alllabelsconfirm,36 2/7
+3,r01,2010,2,alllabelsconfirm,35 3/7
+4,r01,2015,1,alllabelsconfirm,28 4/7
+5,r01,2015,2,alllabelsconfirm,36 5/7
+6,r01,2016,1,alllabelsconfirm,26 1/7
+7,r01,2016,2,alllabelsconfirm,36 1/7
+8,r01,2020,1,alllabelsconfirm,28 2/7
+9,r01,2022,1,alllabelsconfirm,31 6/7
+10,r01,2022,2,alllabelsconfirm,36 1/7
+11,r01,2023,1,alllabelsconfirm,26 3/7
+12,r01,2023,2,alllabelsconfirm,35 3/7
+13,r01,2024,1,alllabelsconfirm,26 5/7
+14,r01,2024,2,alllabelsconfirm,34 5/7
+15,r01,2025,1,alllabelsconfirm,26 5/7
+16,r01,2025,2,alllabelsconfirm,36 3/7
+17,r01,2026,1,alllabelsconfirm,26 3/7
+18,r01,2026,2,alllabelsconfirm,37
+19,r01,2028,1,alllabelsconfirm,28 4/7
+20,r01,2028,2,alllabelsconfirm,36 6/7
+21,r01,2031,2,alllabelsconfirm,36 4/7
+22,r01,2033,1,tbv,27 5/7
+23,r01,2033,2,alllabelsconfirm,35 5/7
+24,r01,2037,1,alllabelsconfirm,28 4/7
+25,r01,2040,1,tbv,29 5/7
+26,r01,2040,2,alllabelsconfirm,37
+27,r01,2041,1,alllabelsconfirm,27 4/7
+28,r01,2041,2,alllabelsconfirm,37 2/7
+29,r01,2042,1,alllabelsconfirm,28 4/7
+30,r01,2042,2,alllabelsconfirm,36 2/7
+31,r01,2044,1,alllabelsconfirm,27 2/7
+32,r01,2044,2,alllabelsconfirm,36 6/7
+33,r01,2046,2,alllabelsconfirm,38 6/7
+34,r01,2048,1,tbv,27 1/7
+35,r01,2050,1,alllabelsconfirm,27 6/7
+36,r01,2050,2,alllabelsconfirm,37
+37,r01,2051,1,alllabelsconfirm,27 6/7
+38,r01,2051,2,alllabelsconfirm,34 4/7
+39,r01,2052,1,alllabelsconfirm,28 3/7
+40,r01,2053,1,tbv,25 5/7
+41,r01,2053,2,alllabelsconfirm,34 5/7
+42,r01,2054,1,alllabelsconfirm,28 2/7
+43,r01,2054,2,alllabelsconfirm,37 2/7
+44,r01,2056,1,alllabelsconfirm,28 1/7
+45,r01,2056,2,alllabelsconfirm,35 3/7
+46,r01,2059,1,alllabelsconfirm,27 5/7
+47,r01,2062,1,alllabelsconfirm,27
+48,r01,2062,2,alllabelsconfirm,37
+49,r01,2063,1,alllabelsconfirm,28 2/7
+50,r01,2063,2,alllabelsconfirm,34 2/7
+51,r01,2065,1,alllabelsconfirm,26
+52,r01,2066,1,alllabelsconfirm,28 5/7
+53,r01,2066,2,alllabelsconfirm,36 5/7
+54,r01,2070,1,alllabelsconfirm,28 2/7
+55,r01,2070,2,alllabelsconfirm,34 5/7
+56,r01,2071,1,alllabelsconfirm,27
+57,r01,2071,2,alllabelsconfirm,34 6/7
+58,r01,2075,1,alllabelsconfirm,26 5/7
+59,r01,2075,2,alllabelsconfirm,37
+60,r01,2076,1,alllabelsconfirm,30
+61,r01,2077,1,alllabelsconfirm,26 1/7
+62,r01,2077,2,alllabelsconfirm,35 2/7
+63,r01,2079,1,alllabelsconfirm,27 5/7
+64,r01,2079,2,alllabelsconfirm,34 5/7
+65,r01,2082,2,alllabelsconfirm,35 5/7
+66,r01,2085,2,alllabelsconfirm,36 3/7
+67,r01,2087,1,alllabelsconfirm,29 2/7
+68,r01,2087,2,alllabelsconfirm,37 2/7
+69,r01,2088,1,alllabelsconfirm,27 5/7
+70,r01,2088,2,alllabelsconfirm,35
+71,r01,2089,1,alllabelsconfirm,34 2/7
+72,r01,2089,2,alllabelsconfirm,38 1/7
+73,r01,2097,1,alllabelsconfirm,28 1/7
+74,r01,2097,2,alllabelsconfirm,36 4/7
+75,r01,2101,2,alllabelsconfirm,35
+76,r01,2102,1,alllabelsconfirm,26 5/7
+77,r01,2102,2,alllabelsconfirm,35 3/7
+78,r01,2103,1,alllabelsconfirm,27 6/7
+79,r01,2103,2,alllabelsconfirm,35 6/7
+80,r01,2104,1,tbv,27 4/7
+81,r01,2106,1,alllabelsconfirm,27
+82,r01,2106,2,alllabelsconfirm,35
+83,r01,2107,2,alllabelsconfirm,35 1/7
+84,r01,2108,1,alllabelsconfirm,29 6/7
+85,r01,2108,2,alllabelsconfirm,39
+86,r01,2109,1,alllabelsconfirm,28 2/7
+87,r01,2109,2,alllabelsconfirm,37 2/7
+88,r01,2110,1,alllabelsconfirm,27 3/7
+89,r01,2111,1,alllabelsconfirm,31 1/7
+90,r01,2111,2,alllabelsconfirm,38 1/7
+91,r01,2115,1,alllabelsconfirm,30 2/7
+92,r01,2119,1,alllabelsconfirm,25 1/7
+93,r01,2119,2,alllabelsconfirm,32
+94,r01,2120,1,alllabelsconfirm,29 1/7
+95,r01,2120,2,alllabelsconfirm,38 1/7
+96,r01,2121,1,alllabelsconfirm,31 1/7
+97,r01,2123,1,alllabelsconfirm,36 1/7
+98,r01,2123,2,alllabelsconfirm,39 1/7
+99,r01,2124,1,alllabelsconfirm,30 1/7
+100,r01,2124,2,alllabelsconfirm,34 5/7
+101,r01,2129,1,alllabelsconfirm,29
+102,r01,2129,2,alllabelsconfirm,37
+103,r01,2132,2,alllabelsconfirm,33 4/7
+104,r01,2133,1,alllabelsconfirm,26 6/7
+105,r01,2133,2,alllabelsconfirm,37 4/7
+106,r01,2134,1,alllabelsconfirm,33 5/7
+107,r01,2135,1,tbv,25 4/7
+108,r01,2135,2,alllabelsconfirm,37 5/7
+109,r01,2136,1,alllabelsconfirm,30 5/7
+110,r01,2136,2,alllabelsconfirm,36 5/7
+111,r01,2137,1,alllabelsconfirm,27 3/7
+112,r01,2137,2,alllabelsconfirm,35 2/7
+113,r01,2140,1,alllabelsconfirm,38
+114,r01,2141,1,alllabelsconfirm,33 4/7
+115,r01,2141,2,alllabelsconfirm,39 3/7
+116,r01,2142,1,alllabelsconfirm,28 4/7
+117,r01,2142,2,alllabelsconfirm,34 2/7
+118,r01,2143,2,alllabelsconfirm,32 1/7
+119,r01,2150,1,alllabelsconfirm,30 5/7
+120,r01,2153,1,alllabelsconfirm,28 2/7
+121,r01,2153,2,alllabelsconfirm,34
+122,r01,2154,1,alllabelsconfirm,31 2/7
+123,r01,2154,2,alllabelsconfirm,39 3/7
+124,r01,2158,1,tbv,26 6/7
+125,r01,2158,2,alllabelsconfirm,38 1/7
+126,r01,2160,1,alllabelsconfirm,26 3/7
+127,r01,2166,1,alllabelsconfirm,24 1/7
+128,r01,2166,2,alllabelsconfirm,36 4/7
+129,r01,2168,1,alllabelsconfirm,24 4/7
+130,r01,2169,1,alllabelsconfirm,28 2/7
+131,r01,2172,2,alllabelsconfirm,33 1/7
+132,r01,2173,1,alllabelsconfirm,27 4/7
+133,r01,2174,2,alllabelsconfirm,34 2/7
+134,r01,2178,1,alllabelsconfirm,25 5/7
+135,r01,2178,2,alllabelsconfirm,33 5/7
+136,r01,2179,1,alllabelsconfirm,26 5/7
+137,r01,2179,2,alllabelsconfirm,33 5/7
+138,r01,2182,1,alllabelsconfirm,26 5/7
+139,r01,2182,2,alllabelsconfirm,36 5/7
+140,r01,2183,1,alllabelsconfirm,29 3/7
+141,r01,2184,1,alllabelsconfirm,25 4/7
+142,r01,2184,2,alllabelsconfirm,32 6/7
+143,r01,2187,1,alllabelsconfirm,27 3/7
+144,r01,2187,2,alllabelsconfirm,35
+145,r01,2188,1,alllabelsconfirm,30 2/7
+146,r01,2188,2,alllabelsconfirm,36
+147,r01,2189,1,tbv,26 2/7
+148,r01,2189,2,alllabelsconfirm,32 1/7
+149,r01,2191,1,tbv,25 5/7
+150,r01,2191,2,alllabelsconfirm,34 1/7
+151,r01,2192,1,alllabelsconfirm,27
+152,r01,2192,2,alllabelsconfirm,36
+153,r01,2193,1,tbv,27 6/7
+154,r01,2196,1,alllabelsconfirm,27
+155,r01,2196,2,alllabelsconfirm,36
+156,r01,2200,1,alllabelsconfirm,29 2/7
+157,r01,2200,2,alllabelsconfirm,37 2/7
+158,r01,2201,2,alllabelsconfirm,38 3/7
+159,r01,2205,1,tbv,26 4/7
+160,r01,2206,1,alllabelsconfirm,29 1/7
+161,r01,2206,2,alllabelsconfirm,37 1/7
+162,r01,2207,1,alllabelsconfirm,24 4/7
+163,r01,2207,2,alllabelsconfirm,37 4/7
+164,r01,2210,1,tbv,26 4/7
+165,r01,2211,1,alllabelsconfirm,26 4/7
+166,r01,2212,2,alllabelsconfirm,35
+167,r01,2213,2,alllabelsconfirm,33 5/7
+168,r01,2215,1,alllabelsconfirm,28 1/7
+169,r01,2215,2,alllabelsconfirm,33
+170,r01,2217,1,tbv,27
+171,r01,2217,2,alllabelsconfirm,34 4/7
+172,r01,2218,2,alllabelsconfirm,35
+173,r01,2219,1,tbv,28 4/7
+174,r01,2219,2,alllabelsconfirm,35 6/7
+175,r01,2221,1,tbv,25 6/7
+176,r01,2221,2,alllabelsconfirm,37
+177,r01,2222,1,alllabelsconfirm,30 1/7
+178,r01,2222,2,alllabelsconfirm,36 5/7
+179,r01,2224,2,alllabelsconfirm,36 5/7
+180,r01,2230,1,alllabelsconfirm,30 2/7
+181,r01,2233,2,alllabelsconfirm,31 4/7
+182,r01,2238,1,alllabelsconfirm,27 4/7
+183,r01,2238,2,alllabelsconfirm,33 4/7
+184,r01,2239,1,alllabelsconfirm,30 5/7
+185,r01,2246,2,alllabelsconfirm,33 2/7
+186,r01,2247,1,alllabelsconfirm,26 3/7
+187,r01,2247,2,alllabelsconfirm,33 3/7
+188,r01,2248,1,alllabelsconfirm,27
+189,r01,2248,2,alllabelsconfirm,33 6/7
+190,r01,2252,1,alllabelsconfirm,30 5/7
+191,r01,2252,2,alllabelsconfirm,36 5/7
+192,r01,2253,2,alllabelsconfirm,36 2/7
+193,r01,2259,1,alllabelsconfirm,27 5/7
+194,r01,2259,2,tbv,36 5/7
+195,r01,2220,2,alllabelsconfirm,36 4/7
+196,r01,2257,2,alllabelsconfirm,37 1/7
+197,rescue,002,2,alllabelsconfirm,36 6/7
+198,rescue,003,1,alllabelsconfirm,28
+199,rescue,003,2,alllabelsconfirm,38
+200,rescue,004,1,alllabelsconfirm,36 3/7
+201,rescue,006,1,alllabelsconfirm,25 2/7
+202,rescue,006,2,alllabelsconfirm,33 3/7
+203,rescue,007,1,alllabelsconfirm,33 6/7
+204,rescue,009,2,alllabelsconfirm,32 3/7
+205,rescue,015,1,alllabelsconfirm,29 4/7
+206,rescue,015,2,alllabelsconfirm,38 3/7
+207,rescue,016,1,alllabelsconfirm,25 4/7
+208,rescue,016,2,alllabelsconfirm,33 4/7
+209,rescue,019,2,alllabelsconfirm,34 3/7
+210,rescue,022,1,alllabelsconfirm,32 3/7
+211,rescue,028,1,alllabelsconfirm,28 3/7
+212,rescue,028,2,alllabelsconfirm,36 4/7
+213,rescue,032,1,alllabelsconfirm,33 5/7
+214,rescue,036,1,alllabelsconfirm,27 1/7
+215,rescue,039,1,alllabelsconfirm,36 4/7
+216,rescue,040,1,alllabelsconfirm,25 3/7
+217,rescue,040,2,alllabelsconfirm,34 5/7
+218,rescue,043,1,alllabelsconfirm,20 1/7
+219,rescue,049,1,alllabelsconfirm,28 1/7
+220,rescue,049,2,alllabelsconfirm,35 2/7
+221,rescue,050,1,alllabelsconfirm,25 5/7
+222,rescue,050,2,alllabelsconfirm,37 2/7
+223,rescue,051,1,alllabelsconfirm,31
+224,rescue,056,1,alllabelsconfirm,28 1/7
+225,rescue,057,1,alllabelsconfirm,29 2/7
+226,rescue,059,1,alllabelsconfirm,26
+227,rescue,059,2,alllabelsconfirm,34 5/7
+228,rescue,062,2,alllabelsconfirm,26 6/7
+229,rescue,067,1,tbv,21
+230,rescue,067,2,alllabelsconfirm,30 3/7
+231,rescue,071,2,alllabelsconfirm,31 3/7
+232,rescue,075,1,alllabelsconfirm,34 1/7
+233,rescue,084,1,alllabelsconfirm,23
+234,rescue,084,2,alllabelsconfirm,36
+235,rescue,095,2,alllabelsconfirm,35
+236,rescue,0109,2,alllabelsconfirm,31
+237,rescue,0111,1,alllabelsconfirm,27 6/7
+238,rescue,0111,2,alllabelsconfirm,35 4/7
+239,rescue,0113,1,alllabelsconfirm,21 6/7
+240,rescue,0113,2,alllabelsconfirm,34 4/7
+241,rescue,0117,2,alllabelsconfirm,36 2/7
+242,rescue,0126,1,tbv,38 2/7
+243,rescue,0131,1,alllabelsconfirm,37
+244,rescue,0135,1,alllabelsconfirm,22 1/7
+245,rescue,0143,1,alllabelsconfirm,35 6/7
+246,rescue,0167,1,alllabelsconfirm,37 4/7
+247,rescue,0172,1,alllabelsconfirm,28 1/7
+248,rescue,005,1,alllabelsconfirm,34 6/7
+249,rescue,018,1,alllabelsconfirm,27 1/7
+250,rescue,020,2,alllabelsconfirm,29
+251,rescue,021,2,alllabelsconfirm,36 5/7
+252,rescue,023,1,alllabelsconfirm,24 4/7
+253,rescue,023,2,alllabelsconfirm,30 4/7
+254,rescue,026,2,alllabelsconfirm,31 4/7
+255,rescue,027,1,alllabelsconfirm,34 1/7
+256,rescue,041,2,alllabelsconfirm,33 2/7
+257,rescue,042,1,alllabelsconfirm,28 1/7
+258,rescue,042,2,alllabelsconfirm,32 5/7
+259,rescue,055,1,alllabelsconfirm,31 6/7
+260,rescue,060,1,alllabelsconfirm,33 6/7
+261,rescue,0116,1,alllabelsconfirm,26 5/7
+262,rescue,0116,2,alllabelsconfirm,33 2/7
+263,rescue,0118,1,alllabelsconfirm,34 4/7
+264,rescue,0119,1,alllabelsconfirm,34 3/7
+265,rescue,0137,2,alllabelsconfirm,35 1/7
+266,rescue,0142,1,alllabelsconfirm,32 1/7
+267,rescue,0142,2,alllabelsconfirm,37 4/7
+268,rescue,0158,1,alllabelsconfirm,32 2/7
+269,rescue,0171,2,alllabelsconfirm,35 4/7
+270,rescue,0175,1,alllabelsconfirm,25 2/7
+271,rescue,0176,1,alllabelsconfirm,31 4/7
+272,rescue,0176,2,alllabelsconfirm,37 4/7
+273,rescue,0182,2,alllabelsconfirm,35 2/7
+274,rescue,0183,1,alllabelsconfirm,34 6/7
+275,rescue,0184,2,alllabelsconfirm,36
+276,rescue,0186,1,tbv,34 4/7
+277,rescue,0188,1,alllabelsconfirm,22 4/7
+278,rescue,0188,2,alllabelsconfirm,36
+279,rescue,0190,1,alllabelsconfirm,33 3/7
+280,rescue,0193,1,alllabelsconfirm,26 3/7
+281,rescue,0196,1,alllabelsconfirm,25 4/7
+282,rescue,0197,2,alllabelsconfirm,32 4/7
+283,rescue,0198,1,alllabelsconfirm,28 3/7
+284,rescue,0205,1,alllabelsconfirm,38 2/7
+285,rescue,0217,1,alllabelsconfirm,23 5/7
+286,rescue,0217,2,alllabelsconfirm,30
+287,rescue,0219,1,alllabelsconfirm,27 2/7
+288,rescue,0219,2,alllabelsconfirm,33 3/7
+289,rescue,0221,1,alllabelsconfirm,29 4/7
+290,rescue,0221,2,alllabelsconfirm,33 6/7
+291,rescue,0222,1,alllabelsconfirm,30 5/7
+292,rescue,0225,1,alllabelsconfirm,33 6/7
+293,rescue,0231,1,alllabelsconfirm,36
+294,rescue,0234,1,alllabelsconfirm,32 6/7
+295,gd,025,1,alllabelsconfirm,34 3/7
+296,gd,026,1,tbv,22 6/7
+297,gd,036,1,tbv,23 5/7
+298,gd,045,1,alllabelsconfirm,22 6/7
+299,gd,047,1,alllabelsconfirm,21 5/7
+300,gd,049,1,tbv,23 3/7
+301,gd,050,1,tbv,22 3/7
+302,gd,051,1,alllabelsconfirm,24 2/7
+303,gd,055,1,tbv,20 5/7
+304,gd,057,1,tbv,23 4/7
+305,gd,058,1,alllabelsconfirm,23 6/7
+306,gd,059,1,alllabelsconfirm,22 4/7
+307,gd,060,1,alllabelsconfirm,24
+308,gd,062,1,alllabelsconfirm,23
+309,gd,063,1,alllabelsconfirm,24 1/7
+310,gd,075,1,tbv,17
+311,gaba,004,1,alllabelsconfirm,36 1/7
+312,gaba,008,1,alllabelsconfirm,36 4/7
+313,gaba,009,1,alllabelsconfirm,36 2/7
+314,gaba,011,1,alllabelsconfirm,38 4/7
+315,gaba,012,1,alllabelsconfirm,37 6/7
+316,df,026,1,alllabelsconfirm,28 3/7
+317,mrspilot,001,1,tbv,35 6/7
+318,mrspilot,002,1,alllabelsconfirm,36 4/7
+319,mrspilot,006,1,tbv,23 4/7
+320,mrspilot,019,2,tbv,35
+321,ge,006,1,alllabelsconfirm,35 2/7
+322,ge,011,1,alllabelsconfirm,25 1/7
+323,ge,012,1,alllabelsconfirm,25 5/7
+324,abc,00506,1,tbv,27
+325,abc,00510,1,tbv,27 3/7
+326,abc,00511,1,alllabelsconfirm,37 5/7
+327,abc,00514,1,tbv,24
+328,abc,00515,1,alllabelsconfirm,32 2/7
+329,abc,00516,1,alllabelsconfirm,31 5/7
+330,abc,00526,1,alllabelsconfirm,32 3/7
+331,abc,00532,1,alllabelsconfirm,38 1/7
+332,abc,00534,1,alllabelsconfirm,35
+333,abc,00535,1,alllabelsconfirm,26 4/7
+334,abc,00541,1,alllabelsconfirm,33 4/7
+335,abc,00543,1,alllabelsconfirm,32 4/7
+336,abc,00544,1,tbv,26 4/7
+337,abc,00546,1,alllabelsconfirm,33 4/7
+338,abc,00549,1,alllabelsconfirm,36 2/7
+339,abc,00550,1,alllabelsconfirm,36 2/7
+340,abc,00551,1,alllabelsconfirm,37 1/7
+341,abc,00553,1,tbv,25 3/7
+342,abc,00554,1,alllabelsconfirm,29 2/7
+343,abc,00556,1,alllabelsconfirm,23 5/7
+344,abc,00557,1,alllabelsconfirm,37 6/7
+345,abc,00558,1,alllabelsconfirm,31 1/7
+346,abc,00559,1,alllabelsconfirm,38 2/7
+347,abc,00562,1,alllabelsconfirm,31
+348,abc,00565,1,alllabelsconfirm,39 1/7
+349,abc,00566,1,alllabelsconfirm,31 2/7
+350,abc,00567,1,alllabelsconfirm,34
+351,abc,00569,1,alllabelsconfirm,31 6/7
+352,abc,00570,1,alllabelsconfirm,26 4/7
+353,abc,00571,1,alllabelsconfirm,28 3/7
+354,abc,00572,1,tbv,22 6/7
+355,abc,00574,1,alllabelsconfirm,26
+356,abc,00575,1,alllabelsconfirm,37
+357,abc,00576,2,alllabelsconfirm,32 2/7
+358,abc,00577,1,tbv,21
+359,abc,00578,1,alllabelsconfirm,35 3/7
+360,abc,00579,1,alllabelsconfirm,32 1/7
+361,abc,00580,1,tbv,28
+362,abc,00580,2,alllabelsconfirm,37 1/7
+363,abc,00581,1,tbv,21
+364,abc,00581,2,alllabelsconfirm,33
+365,abc,00582,1,alllabelsconfirm,37 4/7
+366,abc,00583,1,alllabelsconfirm,32 3/7
+367,abc,00586,1,alllabelsconfirm,22 3/7
+368,abc,00586,2,alllabelsconfirm,33 5/7
+369,abc,00587,1,alllabelsconfirm,26 2/7
+370,abc,00587,2,alllabelsconfirm,36
+371,abc,00590,1,tbv,28
+372,abc,00591,2,alllabelsconfirm,35 4/7
+373,abc,00592,1,tbv,23 1/7
+374,abc,00594,1,alllabelsconfirm,33 5/7
+375,abc,00596,2,alllabelsconfirm,32 3/7
+376,abc,00598,1,alllabelsconfirm,25 4/7
+377,abc,00598,2,alllabelsconfirm,35 5/7
+378,abc,00599,2,alllabelsconfirm,34 3/7
+379,abc,00701,1,alllabelsconfirm,27
+380,abc,00701,2,alllabelsconfirm,33
+381,abc,00703,1,tbv,18 2/7
+382,abc,00709,1,alllabelsconfirm,33 3/7
+383,abc,00715,2,alllabelsconfirm,34 5/7
+384,abc,00717,1,tbv,19 1/7
+385,abc,00717,2,alllabelsconfirm,29 3/7
+386,abc,00720,1,tbv,21 5/7
+387,abc,00720,2,alllabelsconfirm,34 1/7
+388,abc,00722,1,tbv,20 3/7
+389,abc,00722,2,alllabelsconfirm,30 1/7
+390,abc,00723,1,tbv,25 6/7
+391,abc,00734,1,tbv,20 3/7
+392,abc,00741,1,alllabelsconfirm,30 2/7
+393,abc,00743,1,alllabelsconfirm,33 3/7
+394,abc,00744,1,alllabelsconfirm,36 1/7
+395,abc,00748,1,tbv,19 4/7
+396,abc,00748,2,alllabelsconfirm,35 4/7
+397,abc,00750,1,alllabelsconfirm,32 3/7
+398,abc,00752,2,alllabelsconfirm,34 1/7
+399,abc,00756,1,alllabelsconfirm,36 4/7
+400,abc,00759,2,alllabelsconfirm,31 3/7
+401,abc,00760,1,alllabelsconfirm,36 1/7
+402,abc,00764,1,alllabelsconfirm,31 4/7
+403,abc,00768,1,alllabelsconfirm,29 5/7
+404,abc,00772,1,alllabelsconfirm,36 6/7
+405,abc,00775,1,alllabelsconfirm,36 2/7
+406,abc,00780,1,alllabelsconfirm,24
+407,abc,00788,1,alllabelsconfirm,25
+408,abc,00788,2,alllabelsconfirm,31 2/7
+409,abc,00789,1,tbv,21 5/7
+410,abc,00789,2,alllabelsconfirm,31 2/7
+411,abc,00790,1,alllabelsconfirm,32 3/7
+412,abc,00790,2,alllabelsconfirm,37 3/7
+413,abc,00791,1,alllabelsconfirm,27 5/7
+414,abc,00794,1,alllabelsconfirm,26 1/7
+415,abc,00797,2,alllabelsconfirm,35 6/7
+416,abc,00799,1,alllabelsconfirm,35 6/7
+417,abc,00800,1,alllabelsconfirm,29 1/7
+418,abc,00800,2,alllabelsconfirm,35 1/7
+419,abc,00803,2,alllabelsconfirm,33 1/7
+420,abc,00804,1,alllabelsconfirm,34 5/7
+421,abc,00805,1,alllabelsconfirm,25 2/7
+422,abc,00805,2,alllabelsconfirm,34 5/7
+423,abc,00808,1,tbv,26
+424,abc,00808,2,alllabelsconfirm,30 5/7
+425,abc,00809,1,alllabelsconfirm,35 1/7
+426,abc,00812,2,alllabelsconfirm,37 3/7
+427,abc,00815,1,tbv,21 6/7
+428,abc,00815,2,alllabelsconfirm,31 3/7
+429,abc,00818,1,alllabelsconfirm,33 6/7
+430,abc,00818,2,alllabelsconfirm,39 5/7
+431,abc,00819,1,alllabelsconfirm,37 4/7
+432,abc,00823,1,tbv,24
+433,abc,00823,2,tbv,28
+434,abc,00824,1,alllabelsconfirm,28 6/7
+435,abc,00827,2,alllabelsconfirm,37 2/7
+436,abc,00828,1,alllabelsconfirm,33 5/7
+437,abc,00828,2,alllabelsconfirm,36 5/7
+438,abc,00830,1,alllabelsconfirm,25 4/7
+439,abc,00834,1,alllabelsconfirm,34 4/7
+440,abc,00834,2,alllabelsconfirm,38 2/7
+441,abc,00837,1,tbv,33 4/7
+442,abc,00838,1,alllabelsconfirm,33 6/7
+443,abc,00839,1,alllabelsconfirm,38
+444,abc,00840,2,alllabelsconfirm,38 6/7
+445,abc,00841,1,alllabelsconfirm,38
+446,abc,00842,1,alllabelsconfirm,33 3/7
+447,abc,00843,1,alllabelsconfirm,39 3/7
+448,abc,00555,1,alllabelsconfirm,28 5/7
+449,abc,00563,1,alllabelsconfirm,30 1/7
+450,abc,00792,1,tbv,37 3/7
+451,abc,00820,1,alllabelsconfirm,35

@@ -1,0 +1,8 @@
+deep Ensemble learning ResNet slices2D (Whole cohort training)
+[33mWARNING:[0m NVIDIA binaries may not be bound with --writable
+..data size:(217, 128, 128, 128)
+executation time:0.3674251813493017
+Mean absolute error whole cohort
+0.702078099756197
+Mean error whole cohort
+0.2593826388873264
